@@ -1,5 +1,5 @@
 // Mohammad Asif Zaman
-// July 17-22, 2019
+// July 2019
 #include <iostream>
 #include <string>
 #include <sstream>
