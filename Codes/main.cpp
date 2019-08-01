@@ -32,7 +32,7 @@ const unsigned int window_extra_y = 60;
 const unsigned int Nx = window_size_x/cell_size_x;
 const unsigned int Ny = window_size_x/cell_size_x;
 
-const float update_delay = 1/20;
+const float update_delay = 0.05;
 
 
 
