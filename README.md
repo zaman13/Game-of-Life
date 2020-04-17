@@ -15,7 +15,7 @@ Conway's Game of Life in C++ and SFML with mouse input option.
 
 # Use
 
-Run the make file from the terminal. An output file (game_of_life_output) will be created on the same folder. Run the output file from the terminal using \`\`\`.\\game_of_life_output \`\`\` command.
+Run the make file from the terminal. An output file (game_of_life_output) will be created on the same folder. Run the output file from the terminal using ``` .\game_of_life_output ``` command.
 
  
 ## Sample Output
