@@ -1,4 +1,11 @@
 # Game-of-Life
+<p float="left">
+<a href = "https://github.com/zaman13/Game-of-Life/tree/master/Codes"> <img src="https://img.shields.io/badge/Language-C++-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Game-of-Life/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
+<a href = "https://github.com/zaman13/Game-of-Life/tree/master/Codes"> <img src="https://img.shields.io/badge/version-1.0-red" alt="alt text"> </a>
+</p>
+
+
 Conway's Game of Life in C++ and SFML with mouse input option.
 
 
